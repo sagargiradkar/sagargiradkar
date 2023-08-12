@@ -6,7 +6,7 @@ Full Stack Web Developer,Aspiring Android Development , Aspiring Full Stack Data
 
 *   🌍  I'm based in Pune , Maharastra
 *   🖥️  See my portfolio at [My Portfolio Website](http://sagargiradkar.github.io/Sagar-Portfolio-s/)
-*   ✉️  You can contact me at [spgiradkar2002@gmail.com , +91 9168801192 , +91 8788179375](mailto:spgiradkar2002@gmail.com , +91 9168801192 , +91 8788179375 )
+*   ✉️  You can contact me at [spgiradkar2002@gmail.com](mailto:spgiradkar2002@gmail.com )
 *   🧠  I'm learning Full Stack Data Science , Android Development<a href="https://www.github.com/sagargiradkar" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/sagargiradkar?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>### Skills 
 <p align="left">
