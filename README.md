@@ -1,5 +1,14 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://durgeshmehar.github.io/)
+<h1 align="center">Hi 👋, I'm Sagar Prakash GGiradkar </h1>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
+
 # 💫 About Me 
-👋 Hello, fellow learners and tech enthusiasts! I'm passionate about all things tech, from crafting elegant front-end designs to diving deep into data science. 🚀<br><br>🌐 As a Full Stack Web Developer, I love creating seamless user experiences by bringing together the power of HTML, CSS, and JavaScript on the frontend, and leveraging the capabilities of frameworks like Node.js and Express.js on the backend. I believe in building robust and scalable applications that solve real-world problems.<br><br>📊 On my journey through Data Science, I'm uncovering hidden insights from vast datasets. From data preprocessing and exploration to machine learning model implementation, I'm excited to harness data's potential to make informed decisions and predictions.<br><br>📚 Learning is my constant companion, and GitHub is my digital playground. Join me as I explore, experiment, and create, one line of code at a time. Let's build the future together! Connect with me and let's share our knowledge and ideas. 🤝
+👋 Hello, fellow learners and tech enthusiasts! I'm passionate about all things tech, from crafting elegant front-end designs to diving deep into data science. 🚀<br>
+<img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
+<br>🌐 As a Full Stack Web Developer, I love creating seamless user experiences by bringing together the power of HTML, CSS, and JavaScript on the frontend, and leveraging the capabilities of frameworks like Node.js and Express.js on the backend. I believe in building robust and scalable applications that solve real-world problems.<br>
+<br>📊 On my journey through Data Science, I'm uncovering hidden insights from vast datasets. From data preprocessing and exploration to machine learning model implementation, I'm excited to harness data's potential to make informed decisions and predictions.<br
+                                                                                                                                                                                                                                                                    ><br>📚 Learning is my constant companion, and GitHub is my digital playground. Join me as I explore, experiment, and create, one line of code at a time. Let's build the future together! Connect with me and let's share our knowledge and ideas. 🤝
 
 
 ## 🌐 Socials:
