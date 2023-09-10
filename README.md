@@ -1,5 +1,5 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://durgeshmehar.github.io/)
-<h1 align="center">Hi 👋, I'm Sagar Prakash GGiradkar </h1>
+<h1 align="center">Hi 👋, I'm Sagar Prakash Giradkar </h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 # 💫 About Me 
